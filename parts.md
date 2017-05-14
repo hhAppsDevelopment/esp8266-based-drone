@@ -8,7 +8,7 @@
 * ESC [30A SimonK Brushless ESC](http://www.ebay.com/itm/4pcs-E-TECH-SimonK-30A-Brushless-ESC-Speed-Controller-for-Multi-copter-se-/161882626095?hash=item25b0f4d82f:g:PQQAAOSw9IpX0Dhw) - $4.16 * 4 - 24g/pc
 * Battery [ZIPPY Flightmax 2200mAh 3S1P 20C](https://hobbyking.com/en_us/zippy-flightmax-2200mah-3s1p-20c.html) $9.19 * 4 - 160g/
 
-Sum: $105.99, 1230g
+Sum: $102.74, 1230g
 
 ---
 2 batteries: 16 minutes of flight 
